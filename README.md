@@ -57,3 +57,19 @@ Double-click the index.html file to open it in any web browser.
 - Add dark and light mode for better accessibility 
 - Add JavaScript to make score data dynamic
 - Include loading animations for a better user experience
+
+## 👥 Team Members & Roles
+
+| Name | Responsibility |
+|------|----------------|
+
+| Surafel Ayele | Result section (HTML) |
+| Ruth Daniel | Summary section (HTML) |
+| Peniel Behailu | body and container(CSS) |
+| Fistum Tadesese | Result section (CSS) |
+| Nuhamin Tezera | Summary section (CSS) |
+| Natnael Tewodros | Media queries (responsive CSS) |
+| Loza Ketema | Main README documentation |
+| Bekur Sileshi | README |
+| Sabek | README |
+| Yordanos | README|
