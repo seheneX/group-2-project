@@ -52,3 +52,8 @@ Download or clone the repository.
 Open the project folder.
 
 Double-click the index.html file to open it in any web browser.
+
+## Future improvements
+- Add dark and light mode for better accessibility 
+- Add JavaScript to make score data dynamic
+- Include loading animations for a better user experience
