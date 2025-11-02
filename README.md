@@ -64,12 +64,21 @@ Double-click the index.html file to open it in any web browser.
 |------|----------------|
 
 | Surafel Ayele | Result section (HTML) |
+
 | Ruth Daniel | Summary section (HTML) |
+
 | Peniel Behailu | body and container(CSS) |
+
 | Fistum Tadesese | Result section (CSS) |
+
 | Nuhamin Tezera | Summary section (CSS) |
+
 | Natnael Tewodros | Media queries (responsive CSS) |
+
 | Loza Ketema | Main README documentation |
+
 | Bekur Sileshi | README |
+
 | Sabek | README |
+
 | Yordanos | README|
