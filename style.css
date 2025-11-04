@@ -1,10 +1,10 @@
 @media (max-width: 600px) {
-  .container {
-    flex-direction: column;
-  }
+.container {
+flex-direction: column;
+}
 }
 @media (max-width: 600px) {
-  .result-section {
-    border-radius: 20px;
-  }
+.result-section {
+border-radius: 20px;
+}
 }
